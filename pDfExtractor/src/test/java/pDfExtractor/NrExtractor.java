@@ -19,7 +19,7 @@ import java.io.IOException;
 public class NrExtractor {
 	
 	
-	@BeforeTest
+	@Test
 	public void pdf() throws IOException {
 		
 		String pdfFilePath = "E:\\\\KSP\\\\Downloads&Work 13 JAN\\\\BNG APC 3064\\\\APC_3064_ME_NR _16th jan.pdf";
